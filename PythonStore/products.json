@@ -1,0 +1,38 @@
+[
+    {
+        "product_id": 1,
+        "name": "تغاح",
+        "price": 20.0,
+        "quantity": 300
+    },
+    {
+        "product_id": 2,
+        "name": "تفاح",
+        "price": 5.0,
+        "quantity": 200
+    },
+    {
+        "product_id": 3,
+        "name": "ass",
+        "price": 15.0,
+        "quantity": 120
+    },
+    {
+        "product_id": 4,
+        "name": "شراب كتونيل",
+        "price": 80.0,
+        "quantity": 498
+    },
+    {
+        "product_id": 5,
+        "name": "شراب ديس",
+        "price": 80.0,
+        "quantity": 500
+    },
+    {
+        "product_id": 6,
+        "name": "لابتوب",
+        "price": 2000.0,
+        "quantity": 1000
+    }
+]
